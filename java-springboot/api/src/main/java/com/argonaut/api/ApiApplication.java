@@ -11,7 +11,7 @@ public class ApiApplication {
 
 	@RequestMapping("/")
 	public String home(){
-		return "Hello from Spring Boot";
+		return "Hello from Spring Boot srs";
 	}
 
 	public static void main(String[] args) {
